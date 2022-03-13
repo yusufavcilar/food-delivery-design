@@ -1,0 +1,19 @@
+@media (min-width: 1200px) {
+  .login {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  .login .login-left {
+    padding: 0 165px;
+    height: 100vh;
+    width: 45vw;
+  }
+  .login .login-right {
+    display: block;
+    background-color: var(--primary-200);
+    height: 100vh;
+    width: 55vw;
+  }
+}
+/*# sourceMappingURL=large.css.map */
